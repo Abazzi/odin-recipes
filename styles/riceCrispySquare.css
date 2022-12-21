@@ -1,0 +1,38 @@
+#title{
+    color: #FAF9F6;
+    font-size: 24px;
+}
+
+#riceCrispySquareImage{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: lightskyblue;
+    border-width: 10px;
+}
+
+#description{
+    font-size: 16px;
+    color: #FAF9F6;
+}
+
+#orSeparator{
+    color: #FAF9F6;
+}
+
+#stepsList{
+    color: #FAF9F6;
+}
+
+.subheader{
+    color: #5167b1;
+}
+
+.ingredientsList{
+    list-style-type: circle;
+    color: #FAF9F6;
+}
+
+body{
+    background-color: #2b2a33;
+}
+
