@@ -1,0 +1,44 @@
+body{
+    background-color: #2b2a33;
+}
+
+#homerMoonwaffle{
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+#header{
+    text-align: center;
+    color: beige;
+    font-size: 24px;
+}
+
+#navigation{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+}
+
+#navigation .navItem a{
+    color: beige;
+    text-decoration: none;
+}
+
+#navigation .navItem a:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+.navContainer{
+    text-align: center;
+}
+
+li{
+    float: left;
+    padding: 20px;
+}

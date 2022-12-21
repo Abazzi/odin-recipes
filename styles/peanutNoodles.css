@@ -1,0 +1,45 @@
+#title{
+    color: orange;
+    font-size: 32px;
+}
+
+#description{
+    color: orange;
+
+}
+
+#ingredientsList{
+    list-style-type: circle;
+    color: #FAF9F6;
+
+}
+
+#noodleImage{
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: orange;
+    border-style: solid;
+}
+
+#stepList{
+    color: #FAF9F6;
+}
+
+.ingredientTitle{
+    color: #FAF9F6;
+
+}
+
+.subHeader{
+    color: #FAF9F6;
+
+}
+
+.ingredientsList{
+    color: #FAF9F6;
+
+}
+
+body{
+    background-color: #2b2a33 ;
+}

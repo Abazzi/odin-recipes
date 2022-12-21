@@ -1,0 +1,36 @@
+#header{
+    color: orange;
+    font-size: 32px;
+}
+
+#description{
+    color: Orange;
+
+}
+
+#ingredientsList{
+    list-style-type: circle;
+    color: #FAF9F6;
+
+}
+
+#stepsList{
+    color: #FAF9F6;
+
+}
+
+#garfieldImage{
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: orange;
+    border-style: solid;
+}
+
+.subHeader{
+    color: #FAF9F6;
+
+}
+
+body{
+    background-color: #2b2a33 ;
+}
