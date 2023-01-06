@@ -19,11 +19,32 @@
 
 }
 
+#imageAndHeader{
+	margin: 0 auto;
+	text-align: center;
+}
+
 #garfieldImage{
     border-radius: 20px;
     border-width: 10px;
     border-color: orange;
     border-style: solid;
+}
+
+#parentContainer{
+	display:flex;
+	justify-content:center;
+	height:300px;
+	width:500px;
+	padding:40px;
+	flex-wrap:wrap;
+
+}
+
+.childContainer{
+	flex:auto;
+	flex-direction: row;
+
 }
 
 .subHeader{
@@ -33,4 +54,9 @@
 
 body{
     background-color: #2b2a33 ;
+}
+
+footer{
+	margin: 0 auto;
+	text-align:center;
 }
