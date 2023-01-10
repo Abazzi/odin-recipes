@@ -23,10 +23,14 @@
 #ingredientsList{
     list-style-type: circle;
     color: #FAF9F6;
+    width: 500px;
+    margin: 0 auto;
 }
 
 #stepsList{
     color: #FAF9F6;
+    width: 500px;
+    margin: 0 auto;
 }
 
 
@@ -39,6 +43,8 @@
 .childContainer{
     display: flex;
     flex: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .subHeader{
@@ -53,4 +59,8 @@ body{
 
 footer{
     flex: 1 1 auto;
+}
+
+li{
+    margin: 10px 0;
 }
