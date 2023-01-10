@@ -20,6 +20,7 @@
     border-style: solid;
 }
 
+/** Lists and List Containers **/
 #ingredientsList{
     list-style-type: circle;
     color: #FAF9F6;
@@ -52,7 +53,7 @@
     text-align: center;
 }
 
-
+/** Global Properties **/
 body{
     background-color: #2b2a33 ;
 }
